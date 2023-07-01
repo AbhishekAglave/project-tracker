@@ -55,7 +55,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="App-name">Project Time Tracker</h1>
+        <h1 className="App-name">Project Tracker</h1>
       </header>
       <main className="container pt-4 pb-4">
         <div className="container">
