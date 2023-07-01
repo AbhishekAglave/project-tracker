@@ -8,7 +8,7 @@ function App() {
       : [
           {
             id: Date.now(),
-            title: "Time Tracker",
+            title: "Project Tracker",
             description: `A simple time-tracking application using ReactJs.The application will have two modules: Projects and Tasks.
             The application should have a provision to:
             1. Create a project with it's name as an input and submit to display them on a listing page.
